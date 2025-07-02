@@ -1,0 +1,57 @@
+Package: com.hpchanger
+Name: HPChanger
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hook to change iOS version through plist
+Maintainer: HuyHoang
+Author: HuyHoang
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: pool/main/HPChangerHook.deb
+Size: 26420
+MD5sum: 00000000000000000000000000000000
+SHA1: 0000000000000000000000000000000000000000
+SHA256: 0000000000000000000000000000000000000000000000000000000000000000
+
+Package: com.huyhoang.hpchangedaemon
+Name: HPChangeDaemon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Daemon HTTP chạy nền với quyền root để thực thi lệnh command qua HTTP
+Maintainer: HuyHoang
+Author: HuyHoang
+Section: System
+Filename: pool/main/HPChangerDaemon.deb
+Size: 9764
+MD5sum: 00000000000000000000000000000000
+SHA1: 0000000000000000000000000000000000000000
+SHA256: 0000000000000000000000000000000000000000000000000000000000000000
+
+Package: com.huyhoang.hpchanger
+Name: HPChanger
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: HPChanger iOS 14 - Device and IP Changer Tool
+Maintainer: HuyHoang
+Author: HuyHoang
+Section: Applications
+Filename: pool/main/AutoHPChanger.deb
+Size: 180366
+MD5sum: 00000000000000000000000000000000
+SHA1: 0000000000000000000000000000000000000000
+SHA256: 0000000000000000000000000000000000000000000000000000000000000000
+
+Package: com.hpchangeproxy
+Name: HPChangeProxy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Tool to change WiFi proxy settings on jailbroken devices
+Maintainer: HP
+Author: HP
+Section: Utilities
+Depends: firmware (>= 7.0)
+Filename: pool/main/TweakChangeProxy.deb
+Size: 12288
+MD5sum: 00000000000000000000000000000000
+SHA1: 0000000000000000000000000000000000000000
+SHA256: 0000000000000000000000000000000000000000000000000000000000000000 
